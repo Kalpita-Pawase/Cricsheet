@@ -1,4 +1,5 @@
 **Cricsheet Power BI Dashboard**
+
 This project presents an interactive Power BI dashboard built using cricket match data sourced from cricsheet.org
 It is designed to help analysts and stakeholders explore key insights across multiple match formats including T20, ODI, Test, and IPL.
 
